@@ -19,4 +19,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/rishabhbatra0001/Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/rishabhbatra0001/Leetcode/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/rishabhbatra0001/Leetcode/tree/master/0075-sort-colors) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/rishabhbatra0001/Leetcode/tree/master/0191-number-of-1-bits) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/rishabhbatra0001/Leetcode/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
