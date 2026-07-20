@@ -1,11 +1,20 @@
 class Solution {
 public:
     char findTheDifference(string s, string t) {
-        sort(s.begin() , s.end());
-        sort(t.begin() , t.end());
-        for (int j = 0 ; j < t.length() ; j++){
-            if (s[j] != t[j])return t[j];
+        int freq[256]{};
+        for (int i = 0 ; s[i] != '\0' ; i++){
+            int ce = s[i];
+            freq[ce]++;
         }
-       return 's'; 
+
+        for (int i = 0 ; t[i] != '\0' ; i++){
+            int ce = t[i];
+            freq[ce]--;
+        }
+
+        for (int i = 0 ; i < 256 ; i++){
+            if (freq[i] != 0)return i;
+        }
+        return 's';
     }
 };
