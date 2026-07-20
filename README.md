@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/rishabhbatra0001/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/rishabhbatra0001/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/rishabhbatra0001/Leetcode/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/rishabhbatra0001/Leetcode/tree/master/0389-find-the-difference) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/rishabhbatra0001/Leetcode/tree/master/0191-number-of-1-bits) |
+| [0389-find-the-difference](https://github.com/rishabhbatra0001/Leetcode/tree/master/0389-find-the-difference) |
 ## Binary Search
 |  |
 | ------- |
@@ -45,8 +47,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/rishabhbatra0001/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/rishabhbatra0001/Leetcode/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/rishabhbatra0001/Leetcode/tree/master/0389-find-the-difference) |
 ## String
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/rishabhbatra0001/Leetcode/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/rishabhbatra0001/Leetcode/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
