@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/rishabhbatra0001/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/rishabhbatra0001/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0217-contains-duplicate](https://github.com/rishabhbatra0001/Leetcode/tree/master/0217-contains-duplicate) |
+| [0455-assign-cookies](https://github.com/rishabhbatra0001/Leetcode/tree/master/0455-assign-cookies) |
 ## Two Pointers
 |  |
 | ------- |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/rishabhbatra0001/Leetcode/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/rishabhbatra0001/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/rishabhbatra0001/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0455-assign-cookies](https://github.com/rishabhbatra0001/Leetcode/tree/master/0455-assign-cookies) |
 ## Sorting
 |  |
 | ------- |
@@ -28,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/rishabhbatra0001/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/rishabhbatra0001/Leetcode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/rishabhbatra0001/Leetcode/tree/master/0389-find-the-difference) |
+| [0455-assign-cookies](https://github.com/rishabhbatra0001/Leetcode/tree/master/0455-assign-cookies) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -58,4 +61,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/rishabhbatra0001/Leetcode/tree/master/0020-valid-parentheses) |
+## Greedy
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/rishabhbatra0001/Leetcode/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
