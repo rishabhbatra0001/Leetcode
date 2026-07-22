@@ -67,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0455-assign-cookies](https://github.com/rishabhbatra0001/Leetcode/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/rishabhbatra0001/Leetcode/tree/master/0605-can-place-flowers) |
+## Math
+|  |
+| ------- |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/rishabhbatra0001/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 <!---LeetCode Topics End-->
