@@ -2,25 +2,26 @@ class Solution {
 public:
     vector<vector<int>> ans;
 
-    void F(int x, vector<int>& nums) {
-        // Stopping point
-        if (x == nums.size()) {
+    void F(int x, int n, vector<int>& nums) {
+        if (x == n) {
             ans.push_back(nums);
             return;
         }
 
-        // Swap current position with every possible element
-        for (int i = x; i < nums.size(); i++) {
+        for (int i = x; i < n; i++) {
             swap(nums[x], nums[i]);
 
-            F(x + 1, nums);
+            F(x + 1, n, nums);
 
-            swap(nums[x], nums[i]);  // Backtrack
+            swap(nums[x], nums[i]); // Backtrack
         }
     }
 
     vector<vector<int>> permute(vector<int>& nums) {
-        F(0, nums);
+        int n = nums.size();
+
+        F(0, n, nums);
+
         return ans;
     }
 };
