@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/rishabhbatra0001/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/rishabhbatra0001/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0455-assign-cookies](https://github.com/rishabhbatra0001/Leetcode/tree/master/0455-assign-cookies) |
+| [0633-sum-of-square-numbers](https://github.com/rishabhbatra0001/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [1768-merge-strings-alternately](https://github.com/rishabhbatra0001/Leetcode/tree/master/1768-merge-strings-alternately) |
 ## Sorting
 |  |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/rishabhbatra0001/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/rishabhbatra0001/Leetcode/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/rishabhbatra0001/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0633-sum-of-square-numbers](https://github.com/rishabhbatra0001/Leetcode/tree/master/0633-sum-of-square-numbers) |
 ## Hash Table
 |  |
 | ------- |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/rishabhbatra0001/Leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/rishabhbatra0001/Leetcode/tree/master/0066-plus-one) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rishabhbatra0001/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0633-sum-of-square-numbers](https://github.com/rishabhbatra0001/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/rishabhbatra0001/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [3536-maximum-product-of-two-digits](https://github.com/rishabhbatra0001/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/rishabhbatra0001/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
