@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/rishabhbatra0001/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/rishabhbatra0001/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0455-assign-cookies](https://github.com/rishabhbatra0001/Leetcode/tree/master/0455-assign-cookies) |
+| [1768-merge-strings-alternately](https://github.com/rishabhbatra0001/Leetcode/tree/master/1768-merge-strings-alternately) |
 ## Sorting
 |  |
 | ------- |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/rishabhbatra0001/Leetcode/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/rishabhbatra0001/Leetcode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/rishabhbatra0001/Leetcode/tree/master/0389-find-the-difference) |
+| [1768-merge-strings-alternately](https://github.com/rishabhbatra0001/Leetcode/tree/master/1768-merge-strings-alternately) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/rishabhbatra0001/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Stack
 |  |
