@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/rishabhbatra0001/Leetcode/tree/master/0020-valid-parentheses) |
+| [0044-wildcard-matching](https://github.com/rishabhbatra0001/Leetcode/tree/master/0044-wildcard-matching) |
 | [0242-valid-anagram](https://github.com/rishabhbatra0001/Leetcode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/rishabhbatra0001/Leetcode/tree/master/0389-find-the-difference) |
 | [1768-merge-strings-alternately](https://github.com/rishabhbatra0001/Leetcode/tree/master/1768-merge-strings-alternately) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/rishabhbatra0001/Leetcode/tree/master/0044-wildcard-matching) |
 | [0455-assign-cookies](https://github.com/rishabhbatra0001/Leetcode/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/rishabhbatra0001/Leetcode/tree/master/0605-can-place-flowers) |
 ## Math
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/rishabhbatra0001/Leetcode/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/rishabhbatra0001/Leetcode/tree/master/0050-powx-n) |
 ## Counting Sort
 |  |
@@ -119,4 +122,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/rishabhbatra0001/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/rishabhbatra0001/Leetcode/tree/master/0044-wildcard-matching) |
 <!---LeetCode Topics End-->
