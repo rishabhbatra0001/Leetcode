@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/rishabhbatra0001/Leetcode/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rishabhbatra0001/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0724-find-pivot-index](https://github.com/rishabhbatra0001/Leetcode/tree/master/0724-find-pivot-index) |
+| [0877-stone-game](https://github.com/rishabhbatra0001/Leetcode/tree/master/0877-stone-game) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rishabhbatra0001/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Two Pointers
 |  |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/rishabhbatra0001/Leetcode/tree/master/0067-add-binary) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rishabhbatra0001/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/rishabhbatra0001/Leetcode/tree/master/0633-sum-of-square-numbers) |
+| [0877-stone-game](https://github.com/rishabhbatra0001/Leetcode/tree/master/0877-stone-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/rishabhbatra0001/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [3536-maximum-product-of-two-digits](https://github.com/rishabhbatra0001/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/rishabhbatra0001/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -129,8 +131,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/rishabhbatra0001/Leetcode/tree/master/0044-wildcard-matching) |
+| [0877-stone-game](https://github.com/rishabhbatra0001/Leetcode/tree/master/0877-stone-game) |
 ## Simulation
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/rishabhbatra0001/Leetcode/tree/master/0067-add-binary) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/rishabhbatra0001/Leetcode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
