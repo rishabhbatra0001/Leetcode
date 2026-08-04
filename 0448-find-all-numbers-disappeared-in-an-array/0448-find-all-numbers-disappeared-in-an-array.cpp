@@ -2,7 +2,6 @@ class Solution {
 public:
     vector<int> findDisappearedNumbers(vector<int>& nums) {
         vector<int> a;
-        sort(nums.begin() , nums.end());
         int n = nums.size();
         for (int i = 0 ; i < n ; i++){
             int ce = abs(nums[i]) - 1;
