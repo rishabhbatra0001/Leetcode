@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/rishabhbatra0001/Leetcode/tree/master/0724-find-pivot-index) |
 | [0877-stone-game](https://github.com/rishabhbatra0001/Leetcode/tree/master/0877-stone-game) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rishabhbatra0001/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3731-find-missing-elements](https://github.com/rishabhbatra0001/Leetcode/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rishabhbatra0001/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/rishabhbatra0001/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/rishabhbatra0001/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/rishabhbatra0001/Leetcode/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/rishabhbatra0001/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/rishabhbatra0001/Leetcode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/rishabhbatra0001/Leetcode/tree/master/0389-find-the-difference) |
+| [3731-find-missing-elements](https://github.com/rishabhbatra0001/Leetcode/tree/master/3731-find-missing-elements) |
 ## String
 |  |
 | ------- |
