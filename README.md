@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/rishabhbatra0001/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/rishabhbatra0001/Leetcode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/rishabhbatra0001/Leetcode/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/rishabhbatra0001/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/rishabhbatra0001/Leetcode/tree/master/0633-sum-of-square-numbers) |
 ## Hash Table
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/rishabhbatra0001/Leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/rishabhbatra0001/Leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/rishabhbatra0001/Leetcode/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/rishabhbatra0001/Leetcode/tree/master/0069-sqrtx) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rishabhbatra0001/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/rishabhbatra0001/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0877-stone-game](https://github.com/rishabhbatra0001/Leetcode/tree/master/0877-stone-game) |
@@ -145,4 +147,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/rishabhbatra0001/Leetcode/tree/master/0877-stone-game) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/rishabhbatra0001/Leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
