@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/rishabhbatra0001/Leetcode/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/rishabhbatra0001/Leetcode/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rishabhbatra0001/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0704-binary-search](https://github.com/rishabhbatra0001/Leetcode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/rishabhbatra0001/Leetcode/tree/master/0724-find-pivot-index) |
 | [0877-stone-game](https://github.com/rishabhbatra0001/Leetcode/tree/master/0877-stone-game) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rishabhbatra0001/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/rishabhbatra0001/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0367-valid-perfect-square](https://github.com/rishabhbatra0001/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0633-sum-of-square-numbers](https://github.com/rishabhbatra0001/Leetcode/tree/master/0633-sum-of-square-numbers) |
+| [0704-binary-search](https://github.com/rishabhbatra0001/Leetcode/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
 | ------- |
